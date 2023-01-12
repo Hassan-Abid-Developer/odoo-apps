@@ -47,5 +47,5 @@
         'views/report_payroll_advice_template.xml',
     ],
     'images': ['static/description/banner.jpg'],
-    'license': 'OEEL-1',
+    'license': 'OPL-1',
 }
